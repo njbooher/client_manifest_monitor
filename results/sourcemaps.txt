@@ -1,0 +1,13 @@
+Manfest item 3d111bb958412b740d38010d5c156778d41232d6:
+	Used in the following:
+		friendsui_all.zip in steam_client_publicbeta_osx
+		friendsui_all.zip in steam_client_publicbeta_ubuntu12
+		friendsui_all.zip in steam_client_publicbeta_win32
+
+	Contained files:
+		clientui/clientui_core.js	b'sourceMappingURL=clientui_core.js.map'
+		clientui/clientui_friends.js	b'sourceMappingURL=clientui_friends.js.map'
+		clientui/css/bundle.css	b'sourceMappingURL=bundle.css.map*/'
+		clientui/friends.js	b'sourceMappingURL=friends.js.map'
+
+
