@@ -12,9 +12,6 @@ Manfest item 1d24b379fb4b9a388b193676aede91bcbf420b74:
 Manfest item 3d111bb958412b740d38010d5c156778d41232d6:
 	Used in the following:
 		friendsui_all.zip in steam_client_osx
-		friendsui_all.zip in steam_client_publicbeta_osx
-		friendsui_all.zip in steam_client_publicbeta_ubuntu12
-		friendsui_all.zip in steam_client_publicbeta_win32
 		friendsui_all.zip in steam_client_ubuntu12
 
 	Contained files:
