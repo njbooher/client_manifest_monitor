@@ -1,0 +1,26 @@
+Manfest item 34c888eab395e41f5863f11964c04558961a6562:
+	Used in the following:
+		steamui_websrc_all.zip in steam_client_publicbeta_osx
+		steamui_websrc_all.zip in steam_client_publicbeta_ubuntu12
+		steamui_websrc_all.zip in steam_client_publicbeta_win32
+
+	Contained files:
+		steamui/awardicon.js	b'sourceMappingURL=awardicon.js.map'
+		steamui/awardmodal.js	b'sourceMappingURL=awardmodal.js.map'
+		steamui/broadcast.js	b'sourceMappingURL=broadcast.js.map'
+		steamui/css/0.css	b'sourceMappingURL=0.css.map*/'
+		steamui/css/1.css	b'sourceMappingURL=1.css.map*/'
+		steamui/css/2.css	b'sourceMappingURL=2.css.map*/'
+		steamui/css/5.css	b'sourceMappingURL=5.css.map*/'
+		steamui/css/awardicon.css	b'sourceMappingURL=awardicon.css.map*/'
+		steamui/css/awardmodal.css	b'sourceMappingURL=awardmodal.css.map*/'
+		steamui/css/broadcast.css	b'sourceMappingURL=broadcast.css.map*/'
+		steamui/css/library.css	b'sourceMappingURL=library.css.map*/'
+		steamui/css/libraryroot.css	b'sourceMappingURL=libraryroot.css.map*/'
+		steamui/css/main.css	b'sourceMappingURL=main.css.map*/'
+		steamui/libraries/libraries.js	b'sourceMappingURL=libraries.js.map'
+		steamui/libraries/libraries_cm.js	b'sourceMappingURL=libraries_cm.js.map'
+		steamui/library.js	b'sourceMappingURL=library.js.map'
+		steamui/libraryroot.js	b'sourceMappingURL=libraryroot.js.map'
+
+
