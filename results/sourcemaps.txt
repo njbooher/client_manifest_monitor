@@ -3,9 +3,6 @@ Manfest item 34c888eab395e41f5863f11964c04558961a6562:
 		csgo_steamui_websrc_all.zip in csgo_launcher_win32
 		csgo_steamui_websrc_all.zip in dota2_launcher_win32
 		csgo_steamui_websrc_all.zip in steam_client_osx
-		csgo_steamui_websrc_all.zip in steam_client_publicbeta_osx
-		csgo_steamui_websrc_all.zip in steam_client_publicbeta_ubuntu12
-		csgo_steamui_websrc_all.zip in steam_client_publicbeta_win32
 		csgo_steamui_websrc_all.zip in steam_client_ubuntu12
 		csgo_steamui_websrc_all.zip in steam_client_win32
 
