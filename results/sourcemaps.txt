@@ -26,3 +26,23 @@ Manfest item 34c888eab395e41f5863f11964c04558961a6562:
 		steamui/libraryroot.js	b'sourceMappingURL=libraryroot.js.map'
 
 
+Manfest item 659da05e57a870ff6a570fe6fe988072ac8d903a:
+	Used in the following:
+		steamui_websrc_all.zip in steam_client_publicbeta_osx
+		steamui_websrc_all.zip in steam_client_publicbeta_ubuntu12
+		steamui_websrc_all.zip in steam_client_publicbeta_win32
+
+	Contained files:
+		steamui/awardicon.js	b'sourceMappingURL=awardicon.js.map'
+		steamui/broadcast.js	b'sourceMappingURL=broadcast.js.map'
+		steamui/css/0.css	b'sourceMappingURL=0.css.map*/'
+		steamui/css/1.css	b'sourceMappingURL=1.css.map*/'
+		steamui/css/2.css	b'sourceMappingURL=2.css.map*/'
+		steamui/css/5.css	b'sourceMappingURL=5.css.map*/'
+		steamui/css/library.css	b'sourceMappingURL=library.css.map*/'
+		steamui/libraries/libraries.js	b'sourceMappingURL=libraries.js.map'
+		steamui/libraries/libraries_cm.js	b'sourceMappingURL=libraries_cm.js.map'
+		steamui/library.js	b'sourceMappingURL=library.js.map'
+		steamui/libraryroot.js	b'sourceMappingURL=libraryroot.js.map'
+
+
