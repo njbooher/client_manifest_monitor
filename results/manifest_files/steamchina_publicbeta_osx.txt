@@ -1,5 +1,7 @@
 SteamMacBootstrapper.tar.gz	2	0	b''
+SteamMacBootstrapper.tar.gz	2880406	3251029294	b''
 SteamMacBootstrapper.version	4	346195372	b''
+SteamMacBootstrapper.version	7	2742961045	b''
 friends/friend_join.wav	212672	1167410004	b''
 friends/friend_online.wav	212189	3015762529	b''
 graphics/chkIndeterminate@2x.tga	107	2300165461	b''
