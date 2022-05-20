@@ -23,3 +23,12 @@ Manfest item 34c888eab395e41f5863f11964c04558961a6562:
 		steamui/libraryroot.js	b'sourceMappingURL=libraryroot.js.map'
 
 
+Manfest item 54295dc8ae97692f36749be4f428b0786c64364f:
+	Used in the following:
+		friendsui_all.zip in steampal
+
+	Contained files:
+		clientui/css/friends.css	b'sourceMappingURL=friends.css.map*/'
+		clientui/friends.js	b'sourceMappingURL=mobxreact.esm.js.map\r'
+
+
