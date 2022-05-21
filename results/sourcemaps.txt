@@ -25,6 +25,7 @@ Manfest item 34c888eab395e41f5863f11964c04558961a6562:
 
 Manfest item 54295dc8ae97692f36749be4f428b0786c64364f:
 	Used in the following:
+		friendsui_all.zip in steamdeck_stable
 		friendsui_all.zip in steampal
 
 	Contained files:
@@ -34,6 +35,7 @@ Manfest item 54295dc8ae97692f36749be4f428b0786c64364f:
 
 Manfest item 44dd272631cd33d2c4a6f52682aaa76ac3fb5bfa:
 	Used in the following:
+		steamui_websrc_all.zip in steamdeck_stable
 		steamui_websrc_all.zip in steampal
 
 	Contained files:
