@@ -25,7 +25,6 @@ Manfest item 34c888eab395e41f5863f11964c04558961a6562:
 
 Manfest item 23b6a4bd6fb14b2a8fda4a35debbb23db84228fa:
 	Used in the following:
-		friendsui_all.zip in steamdeck_publicbeta
 		friendsui_all.zip in steamdeck_stable
 
 	Contained files:
