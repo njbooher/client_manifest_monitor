@@ -23,3 +23,20 @@ Manfest item 34c888eab395e41f5863f11964c04558961a6562:
 		steamui/libraryroot.js	b'sourceMappingURL=libraryroot.js.map'
 
 
+Manfest item 15f20b2a3525c5cb9cbf885b76bf880333925aa3:
+	Used in the following:
+		steamcmd_siteserverui_linux.zip in steam_cmd_publicbeta_linux
+
+	Contained files:
+		siteserverui/linux64/resources/app.asar	b'sourceMappingURL=0.bundle.js.map{"version":3,"file":"0.bundle.js","sources":[],"mappings":";;;;;;;;;;;;;A","sourceRoot":""}(window["webpackJsonp"] = window["webpackJsonp"] || []).push([[1],{'
+		siteserverui/linux64/siteserverui	b'sourceMappingURL\x00"\' \t\x00-webkit-boguz-propertee\x00 { \x00: none; }\x00Selector or media text is not valid.\x00Source range didn\'t match existing source range\x00Source range didn\'t match existing style source range\x00 { -webkit-boguz-propertee : none; } }\x00@keyframes boguzAnim { \x00Keyframe key text is not valid.\x00Style text is not valid.\x00}\x00div {\x00 div { \x00@media \x00 { div { \x00: none; } }\x00\' could not be added in style sheet.\x00The rule \'\x00\' could not be added in media rule.\x00Cannot insert rule in non-media rule.\x00Cannot insert rule inside rul'
+
+
+Manfest item 4ffc71124ea898d1e2ca233ee23f3eb406ac31dc:
+	Used in the following:
+		steamcmd_siteserverui_win32.zip in steam_cmd_publicbeta_win32
+
+	Contained files:
+		siteserverui/win32/resources/app.asar	b'sourceMappingURL=0.bundle.js.map{"version":3,"file":"0.bundle.js","sources":[],"mappings":";;;;;;;;;;;;;A","sourceRoot":""}(window["webpackJsonp"] = window["webpackJsonp"] || []).push([[1],{'
+
+
