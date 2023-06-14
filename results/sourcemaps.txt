@@ -25,6 +25,7 @@ Manfest item 34c888eab395e41f5863f11964c04558961a6562:
 
 Manfest item 15f20b2a3525c5cb9cbf885b76bf880333925aa3:
 	Used in the following:
+		steamcmd_siteserverui_linux.zip in steam_cmd_linux
 		steamcmd_siteserverui_linux.zip in steam_cmd_publicbeta_linux
 
 	Contained files:
@@ -35,6 +36,7 @@ Manfest item 15f20b2a3525c5cb9cbf885b76bf880333925aa3:
 Manfest item 4ffc71124ea898d1e2ca233ee23f3eb406ac31dc:
 	Used in the following:
 		steamcmd_siteserverui_win32.zip in steam_cmd_publicbeta_win32
+		steamcmd_siteserverui_win32.zip in steam_cmd_win32
 
 	Contained files:
 		siteserverui/win32/resources/app.asar	b'sourceMappingURL=0.bundle.js.map{"version":3,"file":"0.bundle.js","sources":[],"mappings":";;;;;;;;;;;;;A","sourceRoot":""}(window["webpackJsonp"] = window["webpackJsonp"] || []).push([[1],{'
