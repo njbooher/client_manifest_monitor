@@ -23,6 +23,21 @@ Manfest item 34c888eab395e41f5863f11964c04558961a6562:
 		steamui/libraryroot.js	b'sourceMappingURL=libraryroot.js.map'
 
 
+Manfest item 738772c7de079b40bbb520097972f101957d25d3:
+	Used in the following:
+		steamchina_friendsui_all.zip in steamchina_publicbeta_osx
+		steamchina_friendsui_all.zip in steamchina_publicbeta_win32
+		steamchina_friendsui_all.zip in steamchina_win32
+		steamchina_friendsui_all.zip in steam_client_publicbeta_osx
+		steamchina_friendsui_all.zip in steam_client_publicbeta_ubuntu12
+		steamchina_friendsui_all.zip in steam_client_publicbeta_win32
+		steamchina_friendsui_all.zip in steamdeck_publicbeta
+
+	Contained files:
+		clientui/css/friends.css	b'sourceMappingURL=friends.css.map?contenthash=d27b620103ed5c3c5f8a*/'
+		clientui/friends.js	b'sourceMappingURL=friends.js.map?contenthash=24850fc2671e5ee5d863'
+
+
 Manfest item 15f20b2a3525c5cb9cbf885b76bf880333925aa3:
 	Used in the following:
 		steamcmd_siteserverui_linux.zip in steam_cmd_linux
