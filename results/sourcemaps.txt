@@ -42,6 +42,33 @@ Manfest item 738772c7de079b40bbb520097972f101957d25d3:
 		clientui/friends.js	b'sourceMappingURL=friends.js.map?contenthash=24850fc2671e5ee5d863'
 
 
+Manfest item f7da2564cbf6e134ef3372b677bb34560414bc8a:
+	Used in the following:
+		steamchina_steamui_websrc_all.zip in steamchina_publicbeta_osx
+		steamchina_steamui_websrc_all.zip in steamchina_publicbeta_win32
+		steamchina_steamui_websrc_all.zip in steam_client_publicbeta_osx
+		steamchina_steamui_websrc_all.zip in steam_client_publicbeta_ubuntu12
+		steamchina_steamui_websrc_all.zip in steam_client_publicbeta_win32
+		steamchina_steamui_websrc_all.zip in steamdeck_publicbeta
+
+	Contained files:
+		steamui/awardicon.js	b'sourceMappingURL=sourcemaps\\awardicon.js.map'
+		steamui/broadcast.js	b'sourceMappingURL=sourcemaps\\broadcast.js.map'
+		steamui/chunk~2dcc5aaf7.js	b'sourceMappingURL=sourcemaps\\chunk~2dcc5aaf7.js.map'
+		steamui/css/awardicon.css	b'sourceMappingURL=sourcemaps\\css\\awardicon.css.map*/'
+		steamui/css/broadcast.css	b'sourceMappingURL=sourcemaps\\css\\broadcast.css.map*/'
+		steamui/css/chunk~2dcc5aaf7.css	b'sourceMappingURL=sourcemaps\\css\\chunk~2dcc5aaf7.css.map*/'
+		steamui/css/libraries/libraries~e8c5e5be4.css	b'sourceMappingURL=../sourcemaps\\css\\libraries/libraries~e8c5e5be4.css.map*/'
+		steamui/css/library.css	b'sourceMappingURL=sourcemaps\\css\\library.css.map*/'
+		steamui/css/login.css	b'sourceMappingURL=sourcemaps\\css\\login.css.map*/'
+		steamui/css/sp.css	b'sourceMappingURL=sourcemaps\\css\\sp.css.map*/'
+		steamui/libraries/libraries~00299a408.js	b'sourceMappingURL=../sourcemaps\\libraries/libraries~00299a408.js.map'
+		steamui/libraries/libraries~2dcc5aaf7.js	b'sourceMappingURL=../sourcemaps\\libraries/libraries~2dcc5aaf7.js.map'
+		steamui/libraries/libraries~e8c5e5be4.js	b'sourceMappingURL=../sourcemaps\\libraries/libraries~e8c5e5be4.js.map'
+		steamui/library.js	b'sourceMappingURL=sourcemaps\\library.js.map'
+		steamui/sp.js	b'sourceMappingURL=sourcemaps\\sp.js.map'
+
+
 Manfest item 15f20b2a3525c5cb9cbf885b76bf880333925aa3:
 	Used in the following:
 		steamcmd_siteserverui_linux.zip in steam_cmd_linux
