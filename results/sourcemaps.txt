@@ -36,7 +36,7 @@ Manfest item 738772c7de079b40bbb520097972f101957d25d3:
 		clientui/friends.js	b'sourceMappingURL=friends.js.map?contenthash=24850fc2671e5ee5d863'
 
 
-Manfest item f857a7fa1514a611c8becbb0e84c57a10803a68b:
+Manfest item f42a8a32ca6997c3d3cc038768e29aee0910c70f:
 	Used in the following:
 		steamchina_friendsui_all.zip in steamchina_publicbeta_osx
 		steamchina_friendsui_all.zip in steamchina_publicbeta_win32
@@ -47,10 +47,10 @@ Manfest item f857a7fa1514a611c8becbb0e84c57a10803a68b:
 
 	Contained files:
 		clientui/css/friends.css	b'sourceMappingURL=friends.css.map?contenthash=d27b620103ed5c3c5f8a*/'
-		clientui/friends.js	b'sourceMappingURL=friends.js.map?contenthash=24850fc2671e5ee5d863'
+		clientui/friends.js	b'sourceMappingURL=friends.js.map?contenthash=c82396287f1acdb56d45'
 
 
-Manfest item bea2d6f0e08dd5bab859bf0685f89037b8d80f44:
+Manfest item 89edecec1dedda139ccf180b57c17cdce739c09c:
 	Used in the following:
 		steamchina_steamui_websrc_all.zip in steamchina_publicbeta_osx
 		steamchina_steamui_websrc_all.zip in steamchina_publicbeta_win32
