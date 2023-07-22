@@ -23,20 +23,6 @@ Manfest item 34c888eab395e41f5863f11964c04558961a6562:
 		steamui/libraryroot.js	b'sourceMappingURL=libraryroot.js.map'
 
 
-Manfest item 46e08d3d0f28dea8aadf68bb185263eecd396692:
-	Used in the following:
-		steamchina_friendsui_all.zip in steamchina_publicbeta_osx
-		steamchina_friendsui_all.zip in steamchina_publicbeta_win32
-		steamchina_friendsui_all.zip in steam_client_publicbeta_osx
-		steamchina_friendsui_all.zip in steam_client_publicbeta_ubuntu12
-		steamchina_friendsui_all.zip in steam_client_publicbeta_win32
-		steamchina_friendsui_all.zip in steamdeck_publicbeta
-
-	Contained files:
-		clientui/css/friends.css	b'sourceMappingURL=friends.css.map?contenthash=6ac2f675928019e4d771*/'
-		clientui/friends.js	b'sourceMappingURL=friends.js.map?contenthash=7124825dfc2bc618463a'
-
-
 Manfest item 528ced4a4b8d4c67937c22f4aca80a30a145994a:
 	Used in the following:
 		steamchina_friendsui_all.zip in steamchina_win32
@@ -50,7 +36,21 @@ Manfest item 528ced4a4b8d4c67937c22f4aca80a30a145994a:
 		clientui/friends.js	b'sourceMappingURL=friends.js.map?contenthash=419fd04ffe9c7dc1d7f3'
 
 
-Manfest item 0bf5d352a366725ba705571a35141416750673f4:
+Manfest item 5412378d26bc68ab92489caee0aed798ba93bd05:
+	Used in the following:
+		steamchina_friendsui_all.zip in steamchina_publicbeta_osx
+		steamchina_friendsui_all.zip in steamchina_publicbeta_win32
+		steamchina_friendsui_all.zip in steam_client_publicbeta_osx
+		steamchina_friendsui_all.zip in steam_client_publicbeta_ubuntu12
+		steamchina_friendsui_all.zip in steam_client_publicbeta_win32
+		steamchina_friendsui_all.zip in steamdeck_publicbeta
+
+	Contained files:
+		clientui/css/friends.css	b'sourceMappingURL=friends.css.map?contenthash=6ac2f675928019e4d771*/'
+		clientui/friends.js	b'sourceMappingURL=friends.js.map?contenthash=63fe323ca72c5d6ccdcc'
+
+
+Manfest item 4048a2b79cf0a10f8b667421f26b89b08eeffdcc:
 	Used in the following:
 		steamchina_steamui_websrc_all.zip in steamchina_publicbeta_osx
 		steamchina_steamui_websrc_all.zip in steamchina_publicbeta_win32
