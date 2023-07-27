@@ -50,30 +50,6 @@ Manfest item 5412378d26bc68ab92489caee0aed798ba93bd05:
 		clientui/friends.js	b'sourceMappingURL=friends.js.map?contenthash=63fe323ca72c5d6ccdcc'
 
 
-Manfest item 4b71e12680429c5e03aa7d9d8fccb1306c7c1ad0:
-	Used in the following:
-		steamchina_steamui_websrc_all.zip in steamchina_publicbeta_osx
-		steamchina_steamui_websrc_all.zip in steamchina_publicbeta_win32
-		steamchina_steamui_websrc_all.zip in steam_client_publicbeta_osx
-		steamchina_steamui_websrc_all.zip in steam_client_publicbeta_ubuntu12
-		steamchina_steamui_websrc_all.zip in steam_client_publicbeta_win32
-		steamchina_steamui_websrc_all.zip in steamdeck_publicbeta
-
-	Contained files:
-		steamui/awardicon.js	b'sourceMappingURL=sourcemaps\\awardicon.js.map'
-		steamui/broadcast.js	b'sourceMappingURL=sourcemaps\\broadcast.js.map'
-		steamui/chunk~2dcc5aaf7.js	b'sourceMappingURL=sourcemaps\\chunk~2dcc5aaf7.js.map'
-		steamui/css/awardicon.css	b'sourceMappingURL=sourcemaps\\css\\awardicon.css.map*/'
-		steamui/css/broadcast.css	b'sourceMappingURL=sourcemaps\\css\\broadcast.css.map*/'
-		steamui/css/chunk~2dcc5aaf7.css	b'sourceMappingURL=sourcemaps\\css\\chunk~2dcc5aaf7.css.map*/'
-		steamui/css/libraries/libraries~2dcc5aaf7.css	b'sourceMappingURL=../sourcemaps\\css\\libraries/libraries~2dcc5aaf7.css.map*/'
-		steamui/css/library.css	b'sourceMappingURL=sourcemaps\\css\\library.css.map*/'
-		steamui/libraries/libraries~00299a408.js	b'sourceMappingURL=../sourcemaps\\libraries/libraries~00299a408.js.map'
-		steamui/libraries/libraries~2dcc5aaf7.js	b'sourceMappingURL=../sourcemaps\\libraries/libraries~2dcc5aaf7.js.map'
-		steamui/library.js	b'sourceMappingURL=sourcemaps\\library.js.map'
-		steamui/sp.js	b'sourceMappingURL=sourcemaps\\sp.js.map'
-
-
 Manfest item 9c10d8e17e11d8ffe7d2a7b223067a0f78d6c94e:
 	Used in the following:
 		steamchina_steamui_websrc_all.zip in steamchina_win32
@@ -96,6 +72,30 @@ Manfest item 9c10d8e17e11d8ffe7d2a7b223067a0f78d6c94e:
 		steamui/libraries/libraries~00299a408.js	b'sourceMappingURL=../sourcemaps\\libraries/libraries~00299a408.js.map'
 		steamui/libraries/libraries~2dcc5aaf7.js	b'sourceMappingURL=../sourcemaps\\libraries/libraries~2dcc5aaf7.js.map'
 		steamui/libraries/libraries~e8c5e5be4.js	b'sourceMappingURL=../sourcemaps\\libraries/libraries~e8c5e5be4.js.map'
+		steamui/library.js	b'sourceMappingURL=sourcemaps\\library.js.map'
+		steamui/sp.js	b'sourceMappingURL=sourcemaps\\sp.js.map'
+
+
+Manfest item e76bbf8f772754cf0e21816f19962d2d67f369ed:
+	Used in the following:
+		steamchina_steamui_websrc_all.zip in steamchina_publicbeta_osx
+		steamchina_steamui_websrc_all.zip in steamchina_publicbeta_win32
+		steamchina_steamui_websrc_all.zip in steam_client_publicbeta_osx
+		steamchina_steamui_websrc_all.zip in steam_client_publicbeta_ubuntu12
+		steamchina_steamui_websrc_all.zip in steam_client_publicbeta_win32
+		steamchina_steamui_websrc_all.zip in steamdeck_publicbeta
+
+	Contained files:
+		steamui/awardicon.js	b'sourceMappingURL=sourcemaps\\awardicon.js.map'
+		steamui/broadcast.js	b'sourceMappingURL=sourcemaps\\broadcast.js.map'
+		steamui/chunk~2dcc5aaf7.js	b'sourceMappingURL=sourcemaps\\chunk~2dcc5aaf7.js.map'
+		steamui/css/awardicon.css	b'sourceMappingURL=sourcemaps\\css\\awardicon.css.map*/'
+		steamui/css/broadcast.css	b'sourceMappingURL=sourcemaps\\css\\broadcast.css.map*/'
+		steamui/css/chunk~2dcc5aaf7.css	b'sourceMappingURL=sourcemaps\\css\\chunk~2dcc5aaf7.css.map*/'
+		steamui/css/libraries/libraries~2dcc5aaf7.css	b'sourceMappingURL=../sourcemaps\\css\\libraries/libraries~2dcc5aaf7.css.map*/'
+		steamui/css/library.css	b'sourceMappingURL=sourcemaps\\css\\library.css.map*/'
+		steamui/libraries/libraries~00299a408.js	b'sourceMappingURL=../sourcemaps\\libraries/libraries~00299a408.js.map'
+		steamui/libraries/libraries~2dcc5aaf7.js	b'sourceMappingURL=../sourcemaps\\libraries/libraries~2dcc5aaf7.js.map'
 		steamui/library.js	b'sourceMappingURL=sourcemaps\\library.js.map'
 		steamui/sp.js	b'sourceMappingURL=sourcemaps\\sp.js.map'
 
