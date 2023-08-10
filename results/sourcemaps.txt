@@ -86,7 +86,7 @@ Manfest item cff1912132c05976bb5ca14b799f2d08a1f9df08:
 		steamui/sp.js	b'sourceMappingURL=sourcemaps\\sp.js.map'
 
 
-Manfest item 372e93f766dd5ab41abdb5b019b6fb3cb627cc74:
+Manfest item adf1fec3c68de645573a6fb8a8d3d1ac72b02c75:
 	Used in the following:
 		steamcmd_siteserverui_linux.zip in steam_cmd_linux
 		steamcmd_siteserverui_linux.zip in steam_cmd_publicbeta_linux
@@ -96,7 +96,7 @@ Manfest item 372e93f766dd5ab41abdb5b019b6fb3cb627cc74:
 		siteserverui/linux64/siteserverui	b'sourceMappingURL\x00"\' \t\x00-webkit-boguz-propertee\x00 { \x00: none; }\x00Selector or media text is not valid.\x00Source range didn\'t match existing source range\x00Source range didn\'t match existing style source range\x00 { -webkit-boguz-propertee : none; } }\x00@keyframes boguzAnim { \x00Keyframe key text is not valid.\x00Style text is not valid.\x00}\x00div {\x00 div { \x00@media \x00 { div { \x00: none; } }\x00\' could not be added in style sheet.\x00The rule \'\x00\' could not be added in media rule.\x00Cannot insert rule in non-media rule.\x00Cannot insert rule inside rul'
 
 
-Manfest item 71f5dda1e472d7630366a1553604d388b250723e:
+Manfest item ccd1df23e207c3030fdde7ba50f6bc87cd543688:
 	Used in the following:
 		steamcmd_siteserverui_win32.zip in steam_cmd_publicbeta_win32
 		steamcmd_siteserverui_win32.zip in steam_cmd_win32
