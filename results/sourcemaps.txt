@@ -23,7 +23,7 @@ Manfest item 34c888eab395e41f5863f11964c04558961a6562:
 		steamui/libraryroot.js	b'sourceMappingURL=libraryroot.js.map'
 
 
-Manfest item 0b8716e55999854d1480b335ec5f083ae10e6b71:
+Manfest item 0845a76d42da43505c0379596d638bcd3e6c0e62:
 	Used in the following:
 		steamchina_friendsui_all.zip in steamchina_publicbeta_osx
 		steamchina_friendsui_all.zip in steamchina_publicbeta_win32
@@ -69,7 +69,7 @@ Manfest item cff1912132c05976bb5ca14b799f2d08a1f9df08:
 		steamui/sp.js	b'sourceMappingURL=sourcemaps\\sp.js.map'
 
 
-Manfest item d17e4845e67b3bf21ec8c22479bfcb120b2a1a4b:
+Manfest item da420469d868cb328489d4c6c05420a751de8ca6:
 	Used in the following:
 		steamchina_steamui_websrc_all.zip in steamchina_publicbeta_osx
 		steamchina_steamui_websrc_all.zip in steamchina_publicbeta_win32
