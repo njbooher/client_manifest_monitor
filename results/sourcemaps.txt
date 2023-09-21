@@ -50,7 +50,7 @@ Manfest item 2488411068d2139402bf9dc09bf7a06288391185:
 		clientui/friends.js	b'sourceMappingURL=friends.js.map?contenthash=d958b2ba1569b5ba8513'
 
 
-Manfest item 1f98d8740bf1f8b997efd285b75a42a36c4db032:
+Manfest item 2f99df6f21f4bd3e1884de065e6a4a887663bf7d:
 	Used in the following:
 		steamchina_steamui_websrc_all.zip in steamchina_publicbeta_osx
 		steamchina_steamui_websrc_all.zip in steamchina_publicbeta_win32
