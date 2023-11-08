@@ -58,14 +58,9 @@ Manfest item ab776b2164093e7f48980eff1e0ee1f1b6cfde46:
 		clientui/friends.js	b'sourceMappingURL=friends.js.map?contenthash=d958b2ba1569b5ba8513'
 
 
-Manfest item 0f7c50371d8a8203d4c9fac797f680c3546c861f:
+Manfest item 4d91f09435b335af153d15590465b815f61a0b6b:
 	Used in the following:
-		steamchina_steamui_websrc_all.zip in steamchina_publicbeta_osx
-		steamchina_steamui_websrc_all.zip in steamchina_publicbeta_win32
-		steamchina_steamui_websrc_all.zip in steam_client_publicbeta_osx
-		steamchina_steamui_websrc_all.zip in steam_client_publicbeta_ubuntu12
-		steamchina_steamui_websrc_all.zip in steam_client_publicbeta_win32
-		steamchina_steamui_websrc_all.zip in steamdeck_publicbeta
+		steamchina_steamui_websrc_all.zip in steamchina_win32
 
 	Contained files:
 		steamui/awardicon.js	b'sourceMappingURL=sourcemaps\\awardicon.js.map'
@@ -82,9 +77,14 @@ Manfest item 0f7c50371d8a8203d4c9fac797f680c3546c861f:
 		steamui/sp.js	b'sourceMappingURL=sourcemaps\\sp.js.map'
 
 
-Manfest item 4d91f09435b335af153d15590465b815f61a0b6b:
+Manfest item fdeb47fec6519be6ec5031251b3dcc8da630a7f7:
 	Used in the following:
-		steamchina_steamui_websrc_all.zip in steamchina_win32
+		steamchina_steamui_websrc_all.zip in steamchina_publicbeta_osx
+		steamchina_steamui_websrc_all.zip in steamchina_publicbeta_win32
+		steamchina_steamui_websrc_all.zip in steam_client_publicbeta_osx
+		steamchina_steamui_websrc_all.zip in steam_client_publicbeta_ubuntu12
+		steamchina_steamui_websrc_all.zip in steam_client_publicbeta_win32
+		steamchina_steamui_websrc_all.zip in steamdeck_publicbeta
 
 	Contained files:
 		steamui/awardicon.js	b'sourceMappingURL=sourcemaps\\awardicon.js.map'
