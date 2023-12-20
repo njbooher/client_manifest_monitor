@@ -46,7 +46,7 @@ Manfest item 3e3d240491167f63896ed6df6f5e6d228fd9dc05:
 		steamui/sp.js	b'sourceMappingURL=sourcemaps\\sp.js.map'
 
 
-Manfest item 6da4c0b2a0f5fb3381c52150721a0b95b4e3dbfd:
+Manfest item dadf90837659a7a5d2f208095db8507dd1905c1c:
 	Used in the following:
 		steamchina_steamui_websrc_all.zip in steamchina_publicbeta_osx
 		steamchina_steamui_websrc_all.zip in steamchina_publicbeta_win32
