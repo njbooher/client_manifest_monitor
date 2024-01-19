@@ -23,18 +23,39 @@ Manfest item 34c888eab395e41f5863f11964c04558961a6562:
 		steamui/libraryroot.js	b'sourceMappingURL=libraryroot.js.map'
 
 
-Manfest item 54e62bcbb41a13698043d6ba7dc8c2bf2102e58d:
+Manfest item 2bc68a755f9947d595ba9007625ff034aa52a736:
 	Used in the following:
 		steamchina_steamui_websrc_all.zip in steamchina_publicbeta_osx
 		steamchina_steamui_websrc_all.zip in steamchina_publicbeta_win32
-		steamchina_steamui_websrc_all.zip in steamchina_win32
-		steamchina_steamui_websrc_all.zip in steam_client_osx
 		steamchina_steamui_websrc_all.zip in steam_client_publicbeta_osx
 		steamchina_steamui_websrc_all.zip in steam_client_publicbeta_ubuntu12
 		steamchina_steamui_websrc_all.zip in steam_client_publicbeta_win32
+		steamchina_steamui_websrc_all.zip in steamdeck_publicbeta
+
+	Contained files:
+		steamui/awardicon.js	b'sourceMappingURL=sourcemaps/awardicon.js.map'
+		steamui/broadcast.js	b'sourceMappingURL=sourcemaps/broadcast.js.map'
+		steamui/chunk~2dcc5aaf7.js	b'sourceMappingURL=sourcemaps/chunk~2dcc5aaf7.js.map'
+		steamui/css/awardicon.css	b'sourceMappingURL=../sourcemaps/css/awardicon.css.map*/'
+		steamui/css/broadcast.css	b'sourceMappingURL=../sourcemaps/css/broadcast.css.map*/'
+		steamui/css/chunk~2dcc5aaf7.css	b'sourceMappingURL=../sourcemaps/css/chunk~2dcc5aaf7.css.map*/'
+		steamui/css/gamenotes.css	b'sourceMappingURL=../sourcemaps/css/gamenotes.css.map*/'
+		steamui/css/libraries/libraries~2dcc5aaf7.css	b'sourceMappingURL=../../sourcemaps/css/libraries/libraries~2dcc5aaf7.css.map*/'
+		steamui/css/library.css	b'sourceMappingURL=../sourcemaps/css/library.css.map*/'
+		steamui/gamenotes.js	b'sourceMappingURL=sourcemaps/gamenotes.js.map'
+		steamui/libraries/libraries~00299a408.js	b'sourceMappingURL=../sourcemaps/libraries/libraries~00299a408.js.map'
+		steamui/libraries/libraries~2dcc5aaf7.js	b'sourceMappingURL=../sourcemaps/libraries/libraries~2dcc5aaf7.js.map'
+		steamui/libraries/libraries~4f371177a.js	b'sourceMappingURL=../sourcemaps/libraries/libraries~4f371177a.js.map'
+		steamui/library.js	b'sourceMappingURL=sourcemaps/library.js.map'
+		steamui/sp.js	b'sourceMappingURL=sourcemaps/sp.js.map'
+
+
+Manfest item 54e62bcbb41a13698043d6ba7dc8c2bf2102e58d:
+	Used in the following:
+		steamchina_steamui_websrc_all.zip in steamchina_win32
+		steamchina_steamui_websrc_all.zip in steam_client_osx
 		steamchina_steamui_websrc_all.zip in steam_client_ubuntu12
 		steamchina_steamui_websrc_all.zip in steam_client_win32
-		steamchina_steamui_websrc_all.zip in steamdeck_publicbeta
 		steamchina_steamui_websrc_all.zip in steamdeck_stable
 
 	Contained files:
@@ -58,6 +79,14 @@ Manfest item 54e62bcbb41a13698043d6ba7dc8c2bf2102e58d:
 Manfest item 9429500a95b440d25eec80ba3113eac3b5dd897e:
 	Used in the following:
 		steamcmd_siteserverui_linux.zip in steam_cmd_linux
+
+	Contained files:
+		siteserverui/linux64/resources/app.asar	b'sourceMappingURL=0.bundle.js.map{"version":3,"file":"0.bundle.js","sources":[],"mappings":";;;;;;;;;;;;;A","sourceRoot":""}(window["webpackJsonp"] = window["webpackJsonp"] || []).push([[1],{'
+		siteserverui/linux64/siteserverui	b'sourceMappingURL\x00"\' \t\x00-webkit-boguz-propertee\x00 { \x00: none; }\x00Selector or media text is not valid.\x00Source range didn\'t match existing source range\x00Source range didn\'t match existing style source range\x00 { -webkit-boguz-propertee : none; } }\x00@keyframes boguzAnim { \x00Keyframe key text is not valid.\x00Style text is not valid.\x00}\x00div {\x00 div { \x00@media \x00 { div { \x00: none; } }\x00\' could not be added in style sheet.\x00The rule \'\x00\' could not be added in media rule.\x00Cannot insert rule in non-media rule.\x00Cannot insert rule inside rul'
+
+
+Manfest item da1aa61877cb26168d73531a7833dc3eb6547b29:
+	Used in the following:
 		steamcmd_siteserverui_linux.zip in steam_cmd_publicbeta_linux
 
 	Contained files:
@@ -65,9 +94,16 @@ Manfest item 9429500a95b440d25eec80ba3113eac3b5dd897e:
 		siteserverui/linux64/siteserverui	b'sourceMappingURL\x00"\' \t\x00-webkit-boguz-propertee\x00 { \x00: none; }\x00Selector or media text is not valid.\x00Source range didn\'t match existing source range\x00Source range didn\'t match existing style source range\x00 { -webkit-boguz-propertee : none; } }\x00@keyframes boguzAnim { \x00Keyframe key text is not valid.\x00Style text is not valid.\x00}\x00div {\x00 div { \x00@media \x00 { div { \x00: none; } }\x00\' could not be added in style sheet.\x00The rule \'\x00\' could not be added in media rule.\x00Cannot insert rule in non-media rule.\x00Cannot insert rule inside rul'
 
 
-Manfest item f9c346c647b432de29a1497e61d741bdb8b34e91:
+Manfest item 53d1d7dffe7884f617aac547ab6922dc16697f14:
 	Used in the following:
 		steamcmd_siteserverui_win32.zip in steam_cmd_publicbeta_win32
+
+	Contained files:
+		siteserverui/win32/resources/app.asar	b'sourceMappingURL=0.bundle.js.map{"version":3,"file":"0.bundle.js","sources":[],"mappings":";;;;;;;;;;;;;A","sourceRoot":""}(window["webpackJsonp"] = window["webpackJsonp"] || []).push([[1],{'
+
+
+Manfest item f9c346c647b432de29a1497e61d741bdb8b34e91:
+	Used in the following:
 		steamcmd_siteserverui_win32.zip in steam_cmd_win32
 
 	Contained files:
