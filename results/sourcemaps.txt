@@ -74,7 +74,7 @@ Manfest item af9ef90b4e96930f056bb1e1983247e7ad5be7c1:
 		siteserverui/win32/resources/app.asar	b'sourceMappingURL=0.bundle.js.map{"version":3,"file":"0.bundle.js","sources":[],"mappings":";;;;;;;;;;;;;A","sourceRoot":""}(window["webpackJsonp"] = window["webpackJsonp"] || []).push([[1],{'
 
 
-Manfest item 4cd823631a2696a4605bff3d3503b3215090f154:
+Manfest item 54f9cfc17ea0fe884597662d9614917ef846740b:
 	Used in the following:
 		steamui_websrc_all.zip in steam_client_publicbeta_osx
 		steamui_websrc_all.zip in steam_client_publicbeta_ubuntu12
