@@ -81,10 +81,18 @@ Manfest item 86ec7eab2493ee5b9855d57aa0074c76c3aa45c0:
 		steamui/sp.js	b'sourceMappingURL=sourcemaps/sp.js.map'
 
 
+Manfest item 154b5ab9ec8e05bc135c508bde485a3dbb223aea:
+	Used in the following:
+		steamcmd_siteserverui_linux.zip in steam_cmd_publicbeta_linux
+
+	Contained files:
+		siteserverui/linux64/resources/app.asar	b'sourceMappingURL=0.bundle.js.map{"version":3,"file":"0.bundle.js","sources":[],"mappings":";;;;;;;;;;;;;A","sourceRoot":""}(window["webpackJsonp"] = window["webpackJsonp"] || []).push([[1],{'
+		siteserverui/linux64/siteserverui	b'sourceMappingURL\x00"\' \t\x00-webkit-boguz-propertee\x00 { \x00: none; }\x00Selector or media text is not valid.\x00Source range didn\'t match existing source range\x00Source range didn\'t match existing style source range\x00 { -webkit-boguz-propertee : none; } }\x00@keyframes boguzAnim { \x00Keyframe key text is not valid.\x00Style text is not valid.\x00}\x00div {\x00 div { \x00@media \x00 { div { \x00: none; } }\x00\' could not be added in style sheet.\x00The rule \'\x00\' could not be added in media rule.\x00Cannot insert rule in non-media rule.\x00Cannot insert rule inside rul'
+
+
 Manfest item 81ac5ae14af83c04a9bc28ff34154fd56444a361:
 	Used in the following:
 		steamcmd_siteserverui_linux.zip in steam_cmd_linux
-		steamcmd_siteserverui_linux.zip in steam_cmd_publicbeta_linux
 
 	Contained files:
 		siteserverui/linux64/resources/app.asar	b'sourceMappingURL=0.bundle.js.map{"version":3,"file":"0.bundle.js","sources":[],"mappings":";;;;;;;;;;;;;A","sourceRoot":""}(window["webpackJsonp"] = window["webpackJsonp"] || []).push([[1],{'
@@ -93,8 +101,15 @@ Manfest item 81ac5ae14af83c04a9bc28ff34154fd56444a361:
 
 Manfest item af9ef90b4e96930f056bb1e1983247e7ad5be7c1:
 	Used in the following:
-		steamcmd_siteserverui_win32.zip in steam_cmd_publicbeta_win32
 		steamcmd_siteserverui_win32.zip in steam_cmd_win32
+
+	Contained files:
+		siteserverui/win32/resources/app.asar	b'sourceMappingURL=0.bundle.js.map{"version":3,"file":"0.bundle.js","sources":[],"mappings":";;;;;;;;;;;;;A","sourceRoot":""}(window["webpackJsonp"] = window["webpackJsonp"] || []).push([[1],{'
+
+
+Manfest item b5ce16a532bf297002d2f1e9beadd2b0c8a497d5:
+	Used in the following:
+		steamcmd_siteserverui_win32.zip in steam_cmd_publicbeta_win32
 
 	Contained files:
 		siteserverui/win32/resources/app.asar	b'sourceMappingURL=0.bundle.js.map{"version":3,"file":"0.bundle.js","sources":[],"mappings":";;;;;;;;;;;;;A","sourceRoot":""}(window["webpackJsonp"] = window["webpackJsonp"] || []).push([[1],{'
