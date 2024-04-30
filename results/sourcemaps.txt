@@ -23,7 +23,7 @@ Manfest item 34c888eab395e41f5863f11964c04558961a6562:
 		steamui/libraryroot.js	b'sourceMappingURL=libraryroot.js.map'
 
 
-Manfest item 58e53305080f6a8d22a71f7e7651907a5da2df83:
+Manfest item 062d0171a49a59c4f652f190a404172af0614bdc:
 	Used in the following:
 		steamchina_steamui_websrc_all.zip in steamchina_publicbeta_osx
 		steamchina_steamui_websrc_all.zip in steamchina_publicbeta_win32
