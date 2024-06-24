@@ -99,7 +99,7 @@ Manfest item 24eee3722a77383749ae67b678313695e9fef36b:
 		siteserverui/win32/resources/app.asar	b'sourceMappingURL=mobxreact.esm.js.map'
 
 
-Manfest item 344ba9eb0ee2d412af7b6773081a483288fa3e5d:
+Manfest item ecdd2a501d506cbc2a0f19eaaea7f8988f0e5e0b:
 	Used in the following:
 		steamui_websrc_all.zip in steam_client_publicbeta_osx
 		steamui_websrc_all.zip in steam_client_publicbeta_ubuntu12
