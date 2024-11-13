@@ -32,7 +32,7 @@ def print_manifest_files(index, args):
                 output.append(f"{file_entry.filename}\t{file_entry.compress_size}\t{file_entry.crc}\t{file_entry.comment}")
         
         with open(f'{args.output_dir}/manifest_files/{manifest.name}.txt', 'w') as output_file:
-            for line in sorted(output):
+            for line in sorted(set(output)):
                 print(line, file=output_file)
 
 def print_manifest_files_onefile(index, args):
