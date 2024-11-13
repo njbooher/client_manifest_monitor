@@ -7,7 +7,7 @@ import os
 name_filters = [
     re.compile(r'^bin/cef'),
     re.compile(r'Chromium Embedded Framework|localization|v8_context_snapshot|snapshot_blob'),
-    re.compile(r'(\.pak|\.tga|\.svg|\.png)$'),
+    re.compile(r'(\.pak|\.tga|\.svg|\.png|\.ico)$'),
 ]
 
 def handle_diff_line__inner(line, sep, result_dict):
