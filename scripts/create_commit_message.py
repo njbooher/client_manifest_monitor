@@ -79,6 +79,12 @@ def compare(added_dict, removed_dict, summary_counts):
                 result.append(f"\tFile size delta: {key} : {removed_dict[key]} -> {added_dict[key]} ")
                 summary_counts['delta'] += 1
 
+            mag = removed_dict[key] - added_dict[key]
+            pct = mag / added_dict[key] * 100
+            if mag > 0 and pct > 20:
+                result.append(f"\tFile size delta: {key} : {added_dict[key]} -> {removed_dict[key]} ")
+                summary_counts['delta'] += 1
+            
     return result
 
 
