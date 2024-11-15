@@ -1,6 +1,6 @@
 # Client Manifest Monitor
 
-Monitors the Steam [client manifests](/resources/client_manifest_urls.txt) on the CDN. If you see any manifests are missing from the list, please let me know.
+Monitors the Steam [client manifests](/resources/client_manifest_urls.txt) on the CDN. If you know of any manifests that are missing from the list, please let me know.
 
 For each manifest, all contained zip files are downloaded and the contents listed, and this is concatenated and deduped in [/results/manifest_files](/results/manifest_files).
 
