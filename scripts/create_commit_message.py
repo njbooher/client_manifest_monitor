@@ -3,6 +3,7 @@ import glob
 import sys
 import re
 import os
+from collections import defaultdict
 
 name_filters = [
     re.compile(r'^bin/cef'),
@@ -96,16 +97,19 @@ def main():
         'delta': 0
     }
 
-    results = {}
-
+    results_by_file = {}
+    results_by_change = defaultdict(list)
+    
     for manifest_filepath in glob.glob('results/manifest_files/*.txt'):
-
+        manifest_filename = os.path.basename(manifest_filepath)
+        
         added_dict, removed_dict = gen_dicts(manifest_filepath)
         
         result = compare(added_dict, removed_dict, summary_counts)
 
         if len(result) > 0:
-            results[manifest_filepath] = list(sorted(result))
+            results_by_file[manifest_filepath] = list(sorted(result))
+            for 
 
 
     print(f"Client manifest update: {summary_counts['added']} added, {summary_counts['removed']} removed, {summary_counts['delta']} large delta")
