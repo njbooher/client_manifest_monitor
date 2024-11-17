@@ -21,9 +21,9 @@ class ClientManifestsIndex:
         self.add_zip_file(cmzf_obj, f'{manifest_file_dir}/{filename_with_hash}')
 
     # zip files
-    def add_zip_file(self, cdm_manifest_zip_file: ClientManifestZipFile, fpath):
+    def add_zip_file(self, cdn_manifest_zip_file: ClientManifestZipFile, fpath):
         
-        if len(cdm_manifest_zip_file.contains) > 0:
+        if len(cdn_manifest_zip_file.contains) > 0:
             return
 
         try:
@@ -56,7 +56,7 @@ class ClientManifestsIndex:
                     symbol_check_output = None
 
                     entry = ClientManifestZipFileEntry(info.filename, info.compress_size, info.CRC, info.comment, source_map, symbol_check_output)
-                    cdm_manifest_zip_file.contains.append(entry)
+                    cdn_manifest_zip_file.contains.append(entry)
 
 
         except BadZipFile:
