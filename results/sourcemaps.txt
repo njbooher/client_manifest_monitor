@@ -115,7 +115,7 @@ Manfest item 55d79466d0ec80843f1f78a5ed3fad42b6ea807b:
 		steamui/sp.js	b'sourceMappingURL=file:///home/buildbot/buildslave/npm-coordinator-rel-steamui/build/client/steamui/sourcemaps/sp.js.map'
 
 
-Manfest item ac943bbd1c249d9a6b18ba4760c7c45af92c298d:
+Manfest item 71ca5298dfb298eea6ecb1e2c9550e3f2af5021c:
 	Used in the following:
 		steamchina_steamui_websrc_all.zip in steamchina_publicbeta_osx
 		steamchina_steamui_websrc_all.zip in steamchina_publicbeta_win32
